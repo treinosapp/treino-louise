@@ -1,0 +1,15 @@
+{
+  "name": "Treino — Louise Lima",
+  "short_name": "Treino",
+  "description": "Planilha de treino hipertrofia + WOD",
+  "start_url": "/treino-louise/index.html",
+  "scope": "/treino-louise/",
+  "display": "standalone",
+  "background_color": "#fdf6f0",
+  "theme_color": "#c0622a",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
